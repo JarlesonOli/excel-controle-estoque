@@ -1,0 +1,9 @@
+# Arquivos temporários do Excel
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+*.tmp
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
